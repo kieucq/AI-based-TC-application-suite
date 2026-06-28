@@ -25,7 +25,7 @@ This repository contains three deep learning architectures (CNN, ResNet, and U-N
 
 **References:** Nguyen and Kieu (2023); Kieu and Nguyen (2024); Nguyen (2024)
 
-## 3. TC Regional Forecast Models
+## 3. TC Regional Models
 
 **Repository:** `regional-TCAI-models`
 
@@ -35,7 +35,7 @@ The moving-domain framework continuously updates lateral boundary conditions as 
 
 **References:** Kieu (2024); Kieu et al. (2026); Luong (2026)
 
-## 4. TC Rapid Intensification Prediction
+## 4. TC RI Prediction
 
 **Repository:** `RI-prediction-machine-learning`
 
@@ -43,7 +43,7 @@ This repository contains a machine learning framework for predicting tropical cy
 
 **References:** Lowry and Kieu (2024)
 
-## 5. TC Climate Reconstruction and Basin-wide Genesis Mapping
+## 5. TC Climate Reconstruction
 
 **Repository:** `tcg-net`
 
